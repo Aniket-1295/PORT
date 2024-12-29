@@ -26,7 +26,7 @@ const Footer = () => {
           achieve your goals.
         </p>
         <Link
-        src
+        
          href="https://www.linkedin.com/in/aniket-kamble-865694214">
           <MagicButton
             title="Let's get in touch"
